@@ -8,11 +8,11 @@ This project involves a machine learning model to classify social network advert
 To set up the project, follow these steps:
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/saeed-rhimi/naiveBayes
    ```
 2. Navigate to the project directory:
    ```
-   cd <project-directory>
+   cd naiveBayes
    ```
 3. Install required libraries:
    ```
@@ -28,9 +28,9 @@ The dataset used is `Social_Network_Ads.csv`, which includes features like age, 
 ## Contributing
 Contributions to the project are welcome. Please follow these steps to contribute:
 1. Fork the repository.
-2. Create a new branch: `git checkout -b <branch-name>`.
+2. Create a new branch: `git checkout -b naiveBayes`.
 3. Make your changes and commit them: `git commit -am 'Add some feature'`.
-4. Push to the branch: `git push origin <branch-name>`.
+4. Push to the branch: `git push origin naiveBayes`.
 5. Submit a pull request.
 
 ## License
