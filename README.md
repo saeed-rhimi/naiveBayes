@@ -1,5 +1,5 @@
 
-# Social Network Ads Classifier
+# Social Network Ads Classifier Using naiveBayes Model
 
 ## Project Description
 This project involves a machine learning naiveBayes model to classify social network advertisements based on user data. The model predicts whether a user has purchased a product based on their age and estimated salary. The Python project utilizes libraries like Pandas, NumPy, and Scikit-learn.
